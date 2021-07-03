@@ -1,1 +1,1 @@
-# An ASP.NET MVC Web App for inviting people to a party.
+# An ASP.NET Core MVC Web App for inviting people to a party.
